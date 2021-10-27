@@ -1,0 +1,139 @@
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: aduw￥%dma
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Disabled
+  result: '/pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: dawn123asnd
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Enabled
+  result: '/pim/addEmployee'
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: dawn123asnd
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: ajs
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: asdioasdioasdioasdioasdioasdioasdioasdioasdio
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Enabled
+  result: '/pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: sabGuda..
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Enabled
+  result: '/pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: asjn..123
+  user_password: Gdj123..
+  re_password: Gdj123..
+  status: Enabled
+  result: '/pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: najsda1
+  user_password: asjn..123
+  re_password: asjn..123
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: najsda11
+  user_password: BKBH..123
+  re_password: BKBH..123
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: najsda111
+  user_password: Gsak12362
+  re_password: Gsak12362
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: najsda12
+  user_password: Gh.1
+  re_password: Gh.1
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: najsda123
+  user_password: BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123123
+  re_password: BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123BKBH..123123
+  status: Enabled
+  result: 'pim/addEmployee'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId:
+  user_name: najsda31231
+  user_password: BKBH..123
+  re_password: dajwn
+  status: Enabled
+  result: 'pim/viewPersonalDetails/empNumber/'
+
+-
+  firstName: guo
+  lastName: dehua
+  employeeId: 0001
+  user_name: najsda1230
+  user_password: BKBjH..123
+  re_password: BKBjH..123
+  status: Enabled
+  result: 'pim/addEmployee'
+

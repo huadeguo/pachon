@@ -1,0 +1,82 @@
+1632748027743	geckodriver	INFO	Listening on 127.0.0.1:12932
+1632748028268	mozrunner::runner	INFO	Running command: "D:\\优酷\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWYO7Bq"
+1632748030617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileWYO7Bq\\search.json.mozlz4", (void 0)))
+1632748037014	Marionette	INFO	Listening on port 12937
+1632748037275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632748055575	Marionette	INFO	Stopped listening on port 12937
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632748331769	geckodriver	INFO	Listening on 127.0.0.1:3415
+1632748332300	mozrunner::runner	INFO	Running command: "D:\\优酷\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezUB5qu"
+1632748333919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilezUB5qu\\search.json.mozlz4", (void 0)))
+1632748338736	Marionette	INFO	Listening on port 3420
+1632748339105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://121.36.224.237:8080"
+1632748761355	Marionette	INFO	Stopped listening on port 3420
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileK8S0sr"
+1632748761377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileK8S0sr\\search.json.mozlz4", (void 0)))
+1632748766687	Marionette	INFO	Listening on port 14274
+1632748766862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632749019407	Marionette	INFO	Stopped listening on port 14274
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+mozprofilecJn0M9"
+1632749020244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilecJn0M9\\search.json.mozlz4", (void 0)))
+1632749025269	Marionette	INFO	Listening on port 11120
+1632749025479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632749594043	Marionette	INFO	Stopped listening on port 11120
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632749595882	geckodriver	INFO	Listening on 127.0.0.1:11742
+1632749596409	mozrunner::runner	INFO	Running command: "D:\\优酷\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileU7ebiU"
+1632749597989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileU7ebiU\\search.json.mozlz4", (void 0)))
+1632749602374	Marionette	INFO	Listening on port 11747
+1632749602597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632749664442	Marionette	INFO	Stopped listening on port 11747
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632750106408	geckodriver	INFO	Listening on 127.0.0.1:6870
+1632750106926	mozrunner::runner	INFO	Running command: "D:\\优酷\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilem4PKM8"
+1632750108497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilem4PKM8\\search.json.mozlz4", (void 0)))
+1632750113307	Marionette	INFO	Listening on port 6875
+1632750113683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632750478560	Marionette	INFO	Stopped listening on port 6875
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileT7sO4Z\\search.json.mozlz4", (void 0)))
+1632750280316	Marionette	INFO	Listening on port 8358
+1632750280556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632750285446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:48088
+append@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50612
+_@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:31840
+html@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50290
+success@http://121.36.224.237:8080/symfony/web/index.php/dashboard:1085:36
+c@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:28487
+l@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@http://121.36.224.237:8080/symfony/web/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81117
+1632750478583	Marionette	INFO	Stopped listening on port 8358
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
